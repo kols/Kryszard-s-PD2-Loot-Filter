@@ -713,90 +713,90 @@ ItemDisplay[cm1 !UNI MFIND>5]: %GREEN%MF %BLUE%%NAME%
 ItemDisplay[cm1 !UNI LIFE>16]: %RED%Life %BLUE%%NAME% 
 
 //Skillers
-ItemDisplay[cm3 !UNI (TABSK0>0 AND FHR>0)]: %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK2>0 AND FHR>0)]: %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK1>0 AND FHR>0)]: %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK8>0 AND FHR>0)]: %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK9>0 AND FHR>0)]: %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK10>0 AND FHR>0)]: %PURPLE%Cold Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK16>0 AND FHR>0)]: %PURPLE%Curses %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK17>0 AND FHR>0)]: %PURPLE%Poison & Bone Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK18>0 AND FHR>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK24>0 AND FHR>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK25>0 AND FHR>0)]: %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK26>0 AND FHR>0)]: %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK32>0 AND FHR>0)]: %GRAY%Barb %PURPLE%Combat %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK33>0 AND FHR>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK34>0 AND FHR>0)]: %PURPLE%Warcries %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK40>0 AND FHR>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK41>0 AND FHR>0)]: %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK42>0 AND FHR>0)]: %PURPLE%Elemental %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK48>0 AND FHR>0)]: %PURPLE%Traps %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK49>0 AND FHR>0)]: %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK50>0 AND FHR>0)]: %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %ORANGE%FHR%BLUE%
-ItemDisplay[cm3 !UNI (TABSK0>0 AND FRW>0)]: %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK2>0 AND FRW>0)]: %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK1>0 AND FRW>0)]: %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK8>0 AND FRW>0)]: %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK9>0 AND FRW>0)]: %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK10>0 AND FRW>0)]: %PURPLE%Cold Spells %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK16>0 AND FRW>0)]: %PURPLE%Curses %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK17>0 AND FRW>0)]: %PURPLE%Poison & Bone Spells %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK18>0 AND FRW>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK24>0 AND FRW>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK25>0 AND FRW>0)]: %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK26>0 AND FRW>0)]: %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK32>0 AND FRW>0)]: %GRAY%Barb %PURPLE%Combat %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK33>0 AND FRW>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK34>0 AND FRW>0)]: %PURPLE%Warcries %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK40>0 AND FRW>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK41>0 AND FRW>0)]: %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK42>0 AND FRW>0)]: %PURPLE%Elemental %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK48>0 AND FRW>0)]: %PURPLE%Traps %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK49>0 AND FRW>0)]: %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK50>0 AND FRW>0)]: %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %ORANGE%frw%BLUE%
-ItemDisplay[cm3 !UNI (TABSK0>0 AND LIFE>0)]: %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK2>0 AND LIFE>0)]: %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK1>0 AND LIFE>0)]: %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK8>0 AND LIFE>0)]: %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK9>0 AND LIFE>0)]: %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK10>0 AND LIFE>0)]: %PURPLE%Cold Spells %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK16>0 AND LIFE>0)]: %PURPLE%Curses %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK17>0 AND LIFE>0)]: %PURPLE%Poison & Bone Spells %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK18>0 AND LIFE>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK24>0 AND LIFE>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK25>0 AND LIFE>0)]: %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK26>0 AND LIFE>0)]: %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK32>0 AND LIFE>0)]: %GRAY%Barb %PURPLE%Combat %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK33>0 AND LIFE>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK34>0 AND LIFE>0)]: %PURPLE%Warcries %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK40>0 AND LIFE>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK41>0 AND LIFE>0)]: %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK42>0 AND LIFE>0)]: %PURPLE%Elemental %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK48>0 AND LIFE>0)]: %PURPLE%Traps %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK49>0 AND LIFE>0)]: %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI (TABSK50>0 AND LIFE>0)]: %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %RED%Life%BLUE%
-ItemDisplay[cm3 !UNI TABSK0>0]: %PURPLE%Bow and Crossbow %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK2>0]: %PURPLE%Javelin and Spear %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK1>0]: %PURPLE%Passive and Magic %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK8>0]: %PURPLE%Fire Spells %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK9>0]: %PURPLE%Lightning Spells %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK10>0]: %PURPLE%Cold Spells %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK16>0]: %PURPLE%Curses %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK17>0]: %PURPLE%Poison & Bone Spells %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK18>0]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK24>0]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK25>0]: %PURPLE%Offensive Auras %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK26>0]: %PURPLE%Defensive Auras %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK32>0]: %GRAY%Barb %PURPLE%Combat %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK33>0]: %GRAY%Barb %PURPLE%Masteries %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK34>0]: %PURPLE%Warcries %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK40>0]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK41>0]: %PURPLE%Shape Shifting %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK42>0]: %PURPLE%Elemental %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK48>0]: %PURPLE%Traps %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK49>0]: %PURPLE%Shadow Disciplines %TAN%Skiller%BLUE%
-ItemDisplay[cm3 !UNI TABSK50>0]: %PURPLE%Martial Arts %TAN%Skiller%BLUE%
+ItemDisplay[cm3 !UNI (TABSK0>0 AND FHR>0)]: %PURPLE%Bow and Crossbow %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK2>0 AND FHR>0)]: %PURPLE%Javelin and Spear %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK1>0 AND FHR>0)]: %PURPLE%Passive and Magic %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK8>0 AND FHR>0)]: %PURPLE%Fire Spells %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK9>0 AND FHR>0)]: %PURPLE%Lightning Spells %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK10>0 AND FHR>0)]: %PURPLE%Cold Spells %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK16>0 AND FHR>0)]: %PURPLE%Curses %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK17>0 AND FHR>0)]: %PURPLE%Poison & Bone Spells %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK18>0 AND FHR>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK24>0 AND FHR>0)]: %GRAY%Pal %PURPLE%Combat %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK25>0 AND FHR>0)]: %PURPLE%Offensive Auras %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK26>0 AND FHR>0)]: %PURPLE%Defensive Auras %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK32>0 AND FHR>0)]: %GRAY%Barb %PURPLE%Combat %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK33>0 AND FHR>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK34>0 AND FHR>0)]: %PURPLE%Warcries %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK40>0 AND FHR>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK41>0 AND FHR>0)]: %PURPLE%Shape Shifting %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK42>0 AND FHR>0)]: %PURPLE%Elemental %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK48>0 AND FHR>0)]: %PURPLE%Traps %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK49>0 AND FHR>0)]: %PURPLE%Shadow Disciplines %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK50>0 AND FHR>0)]: %PURPLE%Martial Arts %TAN%%NAME% %WHITE%+ %ORANGE%FHR%BLUE%
+ItemDisplay[cm3 !UNI (TABSK0>0 AND FRW>0)]: %PURPLE%Bow and Crossbow %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK2>0 AND FRW>0)]: %PURPLE%Javelin and Spear %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK1>0 AND FRW>0)]: %PURPLE%Passive and Magic %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK8>0 AND FRW>0)]: %PURPLE%Fire Spells %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK9>0 AND FRW>0)]: %PURPLE%Lightning Spells %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK10>0 AND FRW>0)]: %PURPLE%Cold Spells %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK16>0 AND FRW>0)]: %PURPLE%Curses %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK17>0 AND FRW>0)]: %PURPLE%Poison & Bone Spells %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK18>0 AND FRW>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK24>0 AND FRW>0)]: %GRAY%Pal %PURPLE%Combat %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK25>0 AND FRW>0)]: %PURPLE%Offensive Auras %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK26>0 AND FRW>0)]: %PURPLE%Defensive Auras %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK32>0 AND FRW>0)]: %GRAY%Barb %PURPLE%Combat %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK33>0 AND FRW>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK34>0 AND FRW>0)]: %PURPLE%Warcries %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK40>0 AND FRW>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK41>0 AND FRW>0)]: %PURPLE%Shape Shifting %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK42>0 AND FRW>0)]: %PURPLE%Elemental %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK48>0 AND FRW>0)]: %PURPLE%Traps %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK49>0 AND FRW>0)]: %PURPLE%Shadow Disciplines %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK50>0 AND FRW>0)]: %PURPLE%Martial Arts %TAN%%NAME% %WHITE%+ %ORANGE%frw%BLUE%
+ItemDisplay[cm3 !UNI (TABSK0>0 AND LIFE>0)]: %PURPLE%Bow and Crossbow %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK2>0 AND LIFE>0)]: %PURPLE%Javelin and Spear %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK1>0 AND LIFE>0)]: %PURPLE%Passive and Magic %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK8>0 AND LIFE>0)]: %PURPLE%Fire Spells %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK9>0 AND LIFE>0)]: %PURPLE%Lightning Spells %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK10>0 AND LIFE>0)]: %PURPLE%Cold Spells %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK16>0 AND LIFE>0)]: %PURPLE%Curses %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK17>0 AND LIFE>0)]: %PURPLE%Poison & Bone Spells %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK18>0 AND LIFE>0)]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK24>0 AND LIFE>0)]: %GRAY%Pal %PURPLE%Combat %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK25>0 AND LIFE>0)]: %PURPLE%Offensive Auras %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK26>0 AND LIFE>0)]: %PURPLE%Defensive Auras %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK32>0 AND LIFE>0)]: %GRAY%Barb %PURPLE%Combat %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK33>0 AND LIFE>0)]: %GRAY%Barb %PURPLE%Masteries %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK34>0 AND LIFE>0)]: %PURPLE%Warcries %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK40>0 AND LIFE>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK41>0 AND LIFE>0)]: %PURPLE%Shape Shifting %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK42>0 AND LIFE>0)]: %PURPLE%Elemental %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK48>0 AND LIFE>0)]: %PURPLE%Traps %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK49>0 AND LIFE>0)]: %PURPLE%Shadow Disciplines %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI (TABSK50>0 AND LIFE>0)]: %PURPLE%Martial Arts %TAN%%NAME% %WHITE%+ %RED%Life%BLUE%
+ItemDisplay[cm3 !UNI TABSK0>0]: %PURPLE%Bow and Crossbow %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK2>0]: %PURPLE%Javelin and Spear %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK1>0]: %PURPLE%Passive and Magic %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK8>0]: %PURPLE%Fire Spells %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK9>0]: %PURPLE%Lightning Spells %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK10>0]: %PURPLE%Cold Spells %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK16>0]: %PURPLE%Curses %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK17>0]: %PURPLE%Poison & Bone Spells %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK18>0]: %GRAY%Nec %PURPLE%Summoning Spells %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK24>0]: %GRAY%Pal %PURPLE%Combat %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK25>0]: %PURPLE%Offensive Auras %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK26>0]: %PURPLE%Defensive Auras %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK32>0]: %GRAY%Barb %PURPLE%Combat %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK33>0]: %GRAY%Barb %PURPLE%Masteries %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK34>0]: %PURPLE%Warcries %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK40>0]: %GRAY%Dru %PURPLE%Summoning %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK41>0]: %PURPLE%Shape Shifting %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK42>0]: %PURPLE%Elemental %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK48>0]: %PURPLE%Traps %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK49>0]: %PURPLE%Shadow Disciplines %TAN%%NAME%%BLUE%
+ItemDisplay[cm3 !UNI TABSK50>0]: %PURPLE%Martial Arts %TAN%%NAME%%BLUE%
 
 //Note abut High-LVL Grand Charms
 ItemDisplay[cm3 MAG ID ILVL>90]: %NAME%{%WHITE%Cube with 3xPerf Gem%NL%%TAN%Note%WHITE%: ILVL%ORANGE%91+ %BLUE%%NAME%%WHITE%, to Reroll:}
